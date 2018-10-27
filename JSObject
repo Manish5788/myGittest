@@ -1,0 +1,8 @@
+const hello = {
+
+name: 'Manish',
+age: 29,
+department: 'IT',
+work:'Good'
+
+}
